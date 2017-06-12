@@ -20,6 +20,9 @@ profile:
       label: "Website"
       url: "http://website.com"
       text: "http://website.com"
+      
+# Email address
+contact_url: 'jameslee@website.com'
 
 # Github
 github: "caseyscarborough"
